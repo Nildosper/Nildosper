@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Nildo 👋
+![technology-linkedin-background-template-design-5ddf7265984fb7980eedccd4a9cff879_screen](https://user-images.githubusercontent.com/86665339/127334374-0a84ce7b-1a57-40db-929d-a157c489dddc.jpg)
 
-<!--
+<! -
 **Nildosper/Nildosper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
