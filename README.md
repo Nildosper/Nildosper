@@ -6,7 +6,7 @@
 - 👨‍🔬 Researcher
 - 🎓 Master in Food Engineering - UESB (Brazil)
 - 🎓 Doctor in Food Science - UFRJ (Brazil)
-- 👨‍💻 Computer Science Student
+- 👨‍💻 Computer Science Student - UVA (Brazil)
 
 
 
