@@ -23,7 +23,7 @@
 - 🐍 Python
 - 📈 SAS
 - 🧮 Power BI
-- 
+
 ### Idiomas 
 
 - Português (nativo)
