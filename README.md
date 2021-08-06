@@ -2,7 +2,7 @@
 
 ### Quem sou eu?
 
-- 👨‍🔬 Pesquisador
+- 👨‍🔬 Pesquisador de Pós-doutorado - (UFRJ)
 - 🎓 Mestre em Engenharia de Alimentos - UESB (Brazil)
 - 🎓 Doutor em Ciência de Alimentos - UFRJ (Brazil)
 - 👨‍💻 Estudante de Ciência da Computação - UVA (Brazil)
